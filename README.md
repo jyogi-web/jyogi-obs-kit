@@ -5,6 +5,7 @@
 ## 含まれているもの
 
 - `waiting-screen.png` — 勉強会の待機画面
+- `waiting-screen-bukaigi.png` — 部会用の待機画面（うさこ）
 - `profiles/jyogi-obs-kit/basic.ini` — 配信用プロファイル
 - `scenes/jyogi-obs-kit.json` — シーンコレクション
 
@@ -23,6 +24,8 @@
 ```text
 ./waiting-screen.png
 ```
+
+部会では、シーン一覧の `部会待機画面` を追加して使用し、開始前は `waiting-screen-bukaigi.png` を表示します。別のシーンで使う場合は、ソース追加で画像ソースを作成し、このファイルを指定してください。通常の勉強会では `勉強会配信` の待機画面を使います。
 
 ## シーンと音声
 
