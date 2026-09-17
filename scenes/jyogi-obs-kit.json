@@ -190,8 +190,8 @@
               "y": 720.0
             },
             "align": 5,
-            "bounds_type": 0,
-            "bounds_align": false,
+            "bounds_type": 2,
+            "bounds_align": 0,
             "bounds_crop": false,
             "id": 1,
             "pos": {
@@ -298,7 +298,7 @@
               "y": 720.0
             },
             "align": 5,
-            "bounds_type": 0,
+            "bounds_type": 2,
             "id": 1,
             "pos": {
               "x": 0.0,
